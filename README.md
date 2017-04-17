@@ -21,7 +21,7 @@ backpropagation
 
 =======
 
-This sample code "ANN_XOR.m"  for training an artificial neural network to work as XOR logic gate by using Matlab.
+This sample code "ANN_XOR.m"  is for training an artificial neural network to work as XOR logic gate by using Matlab.
 The most privileged in this code is to present the real-time training in a graph and also to see the effect of changing the learning rate.
 this code is for the beginners and intermediate in the artificial neural network who does not have any experience at all.
 You can play with it, understand how the ANN works.
